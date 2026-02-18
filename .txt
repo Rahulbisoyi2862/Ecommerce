@@ -1,0 +1,21 @@
+
+// seller register (DTL) store
+
+name
+
+email 
+
+phone
+
+password
+
+conform password
+
+store name 
+
+business type
+
+gst number
+
+address 
+
